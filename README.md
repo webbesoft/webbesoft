@@ -1,4 +1,4 @@
-- 👋 Welcome to Webber
+- 👋 Welcome to Webbe
 - 👀 Webbe is the brainchild of [Tawanda Munongo](https://github.com/tmunongo)
 - 📫 How to reach me
 - ⚡ I'm here to make magic, build my dreams, and hopefully rope in a few fellow pilgrims to my quest.
